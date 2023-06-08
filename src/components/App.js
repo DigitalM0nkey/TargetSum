@@ -10,7 +10,6 @@ const App = () => {
   };
 
   const resetScore = () => {
-    console.log('reset score');
     setScore(0);
   };
 
